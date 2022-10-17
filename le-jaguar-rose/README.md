@@ -1,4 +1,4 @@
 # le-jaguar-rose
-applies a LUT with background and camera resize
+applies: COLOR LUT, background image and camera resize
 
 ![image with filter](sample.jpg)
